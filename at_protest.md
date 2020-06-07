@@ -1,6 +1,9 @@
 # Things you can do to protect your digital self
 ## An essential list for protestors
 
+** This is an unordered list of suggestions. Once I have feedback on this, I will put out a poll to get rankings**
+** from those rankings I am thinking of multiople size handouts from the essential to the good ideas.**
+
 Disable face or fingerprint login
 ![Android Logo](/logos/android.png) Settings > Security (or Security & location) > Smart Lock > Trusted face > Remove Trusted face
 ![Android Logo](/logos/android.png) Settings >  Security (or Security & location) > Fingerprints  and then remove fingerprints
