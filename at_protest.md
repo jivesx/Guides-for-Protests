@@ -2,7 +2,7 @@
 ## An essential list for protestors
 
 ** This is an unordered list of suggestions. Once I have feedback on this, I will put out a poll to get rankings**  
-** from those rankings I am thinking of multiople size handouts from the essential to the good ideas.**  
+** from those rankings I am thinking of multiple size handouts from the essential to the good ideas.**  
 
 Turn off Location Services  
 ![Android Logo](/logos/android.png) Settings > Security (or Security & location) > Location > disable "Use Location"  
@@ -19,7 +19,7 @@ Hide on screen notifications
 ![Apple Logo](/logos/apple.png) Settings > Notifications > Show Previews > Never  
 
 Turn off your phone or use airplane mode  
-![Android Logo](/logos/android.png)  Settings > Airplane mode  
+![Android Logo](/logos/android.png) ![Samsung Logo](/logos/samsung.png) ![Apple Logo](/logos/apple.png)  Settings > Airplane mode  
 Note: wait until well away from the protest to turn it on if you're concerned about anything. Otherwise, it could give law enforcement times for when you arrived & left.  
 
 Limit actions from lock screen  
