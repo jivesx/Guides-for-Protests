@@ -4,6 +4,10 @@
 ** This is an unordered list of suggestions. Once I have feedback on this, I will put out a poll to get rankings**  
 ** from those rankings I am thinking of multiople size handouts from the essential to the good ideas.**  
 
+Turn off Location Services  
+![Android Logo](/logos/android.png) Settings > Security (or Security & location) > Location > disable "Use Location"  
+![Apple Logo](/logos/apple.png) Settings > Privacy > Location Services > disable "Location Services"  
+
 Disable face or fingerprint login  
 ![Android Logo](/logos/android.png) Settings > Security (or Security & location) > Smart Lock > Trusted face > Remove Trusted face  
 ![Android Logo](/logos/android.png) Settings >  Security (or Security & location) > Fingerprints  and then remove fingerprints  
@@ -32,5 +36,4 @@ Ensure device locks quickly
 
 Configure Password  
 ![Android Logo](/logos/android.png) Settings > Security > Screen Lock: choose PIN or Password,  follow prompts  
-![Apple Logo](/logos/apple.png) Settings > 
 
